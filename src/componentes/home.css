@@ -1,0 +1,16 @@
+body{
+background-color: bisque;
+}
+
+#home {
+    border-radius: 15px 15px;
+    background-color: darkgoldenrod;
+    width: 150%;
+    height: 500px;
+    text-align: center;
+    
+}
+
+#lista{
+    text-decoration: none;
+}
